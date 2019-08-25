@@ -1,5 +1,7 @@
 # SwiftCppBridgeTemplates
 
+_SwiftCppBridgeTemplates is part of the development software for the [Hackaday ÓSK Squirrel](https://hackaday.io/project/165563-sk-squirrel) project._
+
 _Language interoperability example package which builds C, C++ and Swift executables._
 
 <a id="contents"></a>
